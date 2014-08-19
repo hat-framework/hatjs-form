@@ -1,0 +1,25 @@
+{
+  "name": "hatframework-hatjs-form",
+  "version": "0.1.1",
+  "authors": [
+    "Thom MF <thom@hat-framework.com>"
+  ],
+  "description": "hatframework javascript form package",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "http://hat-framework.com/hatjs/form",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-redactor": "~1.0.0",
+    "redactor": "*"
+  }
+}
